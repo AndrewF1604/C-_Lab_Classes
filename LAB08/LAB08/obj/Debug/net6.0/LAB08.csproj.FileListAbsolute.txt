@@ -1,0 +1,15 @@
+C:\Users\Andrzej\source\repos\LAB08\LAB08\bin\Debug\net6.0\LAB08.exe
+C:\Users\Andrzej\source\repos\LAB08\LAB08\bin\Debug\net6.0\LAB08.deps.json
+C:\Users\Andrzej\source\repos\LAB08\LAB08\bin\Debug\net6.0\LAB08.runtimeconfig.json
+C:\Users\Andrzej\source\repos\LAB08\LAB08\bin\Debug\net6.0\LAB08.dll
+C:\Users\Andrzej\source\repos\LAB08\LAB08\bin\Debug\net6.0\LAB08.pdb
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.csproj.AssemblyReference.cache
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.AssemblyInfoInputs.cache
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.AssemblyInfo.cs
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.dll
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\refint\LAB08.dll
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.pdb
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\LAB08.genruntimeconfig.cache
+C:\Users\Andrzej\source\repos\LAB08\LAB08\obj\Debug\net6.0\ref\LAB08.dll
