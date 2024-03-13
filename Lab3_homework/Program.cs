@@ -1,0 +1,18 @@
+﻿using System;
+
+namespace Lab3_homework
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // before we construct a submarine, test individual elements of the program first
+            bool testsPassed = TestSubmarine.Run();
+            if (!testsPassed) return;
+            Console.WriteLine();
+
+            // uncomment this if you are ready for the submarine simulationas d
+             Submarine.Demo();
+        }
+    }
+}
